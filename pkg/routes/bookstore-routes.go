@@ -1,6 +1,7 @@
 package routes
 
 import (
+	"github.com/chvnrohith/shop/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 
