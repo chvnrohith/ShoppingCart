@@ -1,6 +1,6 @@
 package config
 
-import "example.com/hello/Desktop/go-workspace/pkg/mod/github.com/jinzhu/gorm@v1.9.12"
+import "github.com/jinzhu/gorm"
 
 var (
 	db *gorm.DB
